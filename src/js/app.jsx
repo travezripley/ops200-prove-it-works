@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+
 const Mortgage = require('../../src/js/lib/Mortgage');
 
 export default class App extends React.Component {
